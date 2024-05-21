@@ -1,0 +1,50 @@
+# employee infomation
+org: 
+  nit: 
+     id: 1001
+     name: raja
+     addrs: hyd
+     phone: 99999999
+---
+     
+com: 
+    nt: 
+      stud: 
+         id: 1001
+         name: raja
+         addrs : delhi
+         #for array
+         nickNames: 
+               - king
+               - maharaja
+               - raj
+               # for list
+         friends: 
+               - mahesh
+               - suresh
+               - rajesh
+         phone-numbers: [9999999 , 8888888, 777777 ]
+        
+               #for set
+         phoneNumbers:  
+              -  999999991
+              -  888888881
+              -  777777771
+              # for map
+         id-details: 
+             aadhar: 899999
+             voterid: 435666
+             passport : 4554566
+             # HAS-A property
+         college:
+              rollNo: 3456
+              name: CBIET
+              location: hyd
+              
+            
+                  
+              
+              
+                     
+             
+     
